@@ -34,10 +34,7 @@ public class SearchTest {
 			"Expected" + expected + " but found >> " + actualText);
 	
 		
-	}
-	
-	
-		
+	}	
 	
 
 }
